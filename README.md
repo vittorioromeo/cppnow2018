@@ -9,5 +9,5 @@ Repository for my C++Now 2018 talks.
 
 * [`orizzonte` library](https://github.com/SuperV1234/orizzonte)
 
-* [~YouTube video~](TODO)
+* [~YouTube video~](https://www.youtube.com/watch?v=Avvhs3PLP7o)
 
